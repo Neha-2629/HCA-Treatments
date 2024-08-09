@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1a068de.css",
+    "main.js": "/static/js/main.0af0217f.js",
+    "static/media/hca-logo.png": "/static/media/hca-logo.4768e2c2186f83f521fb.png",
+    "static/media/hca_symbol.png": "/static/media/hca_symbol.c1c0627b8c0606355dc8.png",
+    "index.html": "/index.html",
+    "main.b1a068de.css.map": "/static/css/main.b1a068de.css.map",
+    "main.0af0217f.js.map": "/static/js/main.0af0217f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a068de.css",
+    "static/js/main.0af0217f.js"
+  ]
+}
